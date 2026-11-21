@@ -24,7 +24,7 @@ The built amplifier met both matching targets but measured 21.07 dB of gain, 5.6
 
 Measurements were taken with an E5063A VNA centred at 284 MHz with a span of about 400 MHz.
 
-![AWR simulated frequency response](images/AWR-Simulated-Frequency-Response.png)
+![AWR simulated frequency response](AWR%20Simulated%20Frequency%20Response.png)
 
 ## Design summary
 
@@ -42,11 +42,11 @@ Measurements were taken with an E5063A VNA centred at 284 MHz with a span of abo
 | C2 | Output series matching and DC block | 8.28 pF |
 | R1 | Stability resistor (collector to ground) | 82 Ω |
 
-![AWR amplifier circuit](images/AWR-Amplifier-Circuit.png)
+![AWR amplifier circuit](AWR%20Amplifier%20Circuit.png)
 
 **Bias network.** Collector-feedback bias with R2 = 2.2 kΩ, R3 = 18 kΩ, R4 = 120 Ω and R5 = 270 Ω. Two 1000 pF capacitors are used: C3 in series with L1 so DC does not flow to ground through it, and C4 with R5 to decouple the supply line.
 
-![DC bias circuit](images/DC-Bias-Circuit.png)
+![DC bias circuit](DC%20Bias%20Circuit.png)
 
 ## Limitations and future work
 
