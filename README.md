@@ -24,7 +24,7 @@ The built amplifier met both matching targets but measured 21.07 dB of gain, 5.6
 
 Measurements were taken with an E5063A VNA centred at 284 MHz with a span of about 400 MHz.
 
-![AWR simulated frequency response](AWR%20Simulated%20Frequency%20Response.png)
+![VNA measurement at 284 MHz](284MHZ.BMP)
 
 ## Design summary
 
